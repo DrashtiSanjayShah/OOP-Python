@@ -1,7 +1,6 @@
 # OOP-Python
 # ATM Management System
 
-![ATM](https://image.shutterstock.com/image-photo/modern-atm-machine-260nw-623155936.jpg)
 
 This project is an ATM Management System implemented in Python. It allows users to perform various banking operations like checking balance, withdrawing money, depositing money, and creating a PIN. The system is created using the concept of classes and objects in Python.
 
